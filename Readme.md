@@ -17,3 +17,5 @@ This repository contains the sources codes, data and supplementary files for our
 * Yue Zhu, Yunjie Gu, Yitong Li, Timothy C. Green, [Participation Analysis in Impedance Models: The Grey-Box Approach for Power System Stability](https://github.com/Future-Power-Networks/Publications/tree/main/GreyBox), IEEE Transactions on Power Systems, 2022.
 
 * Yunjie Gu, Yitong Li, Yue Zhu, Timothy C. Green, [Impedance-Based Whole-System Modeling for a Composite Grid via Embedding of Frame Dynamics](https://github.com/Future-Power-Networks/Publications/tree/main/WholeSystem), IEEE Transactions on Power Systems, 2021.
+
+* Yifan Zhang, Yunjie Gu, Sijia Geng, Yue Zhu, Hsiao-Dong Chiang, Timothy C. Green, [Large-Signal Stability of Power Systems with Mixtures of GFL, GFM and GSP Inverters]([https://github.com/Future-Power-Networks/Publications/tree/main/WholeSystem](https://github.com/yifanz1125/Large-Signal-Stability-of-mixture-Inverters/tree/main/LargeSignal), 2025.
