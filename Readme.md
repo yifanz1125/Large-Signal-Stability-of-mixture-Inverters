@@ -2,6 +2,8 @@
 
 This repository contains the sources codes, data and supplementary files for our publications, listed in reverse-chronological order:
 
+* Yifan Zhang, Yunjie Gu, Sijia Geng, Yue Zhu, Hsiao-Dong Chiang, Timothy C. Green, [Large-Signal Stability of Power Systems with Mixtures of GFL, GFM and GSP Inverters](https://github.com/yifanz1125/Large-Signal-Stability-of-mixture-Inverters/tree/main/LargeSignal).
+
 * Yue Zhu, Timothy C. Green, Xiaoyao Zhou, Yitong Li, Dechao Kong, Yunjie Gu, [Impedance Margin Ratio: a New Metric for Small-Signal System Strength](https://github.com/Future-Power-Networks/Simplus-Grid-Tool/tree/2023Mar14_SmallSignalStrength).
 
 * Yitong Li, Timothy C. Green, Yunjie Gu, [Descriptor State Space Modeling of Power Systems](https://github.com/Future-Power-Networks/Simplus-Grid-Tool/tree/2022AUG18_DescriptorStateSpace).
@@ -17,3 +19,4 @@ This repository contains the sources codes, data and supplementary files for our
 * Yue Zhu, Yunjie Gu, Yitong Li, Timothy C. Green, [Participation Analysis in Impedance Models: The Grey-Box Approach for Power System Stability](https://github.com/Future-Power-Networks/Publications/tree/main/GreyBox), IEEE Transactions on Power Systems, 2022.
 
 * Yunjie Gu, Yitong Li, Yue Zhu, Timothy C. Green, [Impedance-Based Whole-System Modeling for a Composite Grid via Embedding of Frame Dynamics](https://github.com/Future-Power-Networks/Publications/tree/main/WholeSystem), IEEE Transactions on Power Systems, 2021.
+

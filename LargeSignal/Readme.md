@@ -1,11 +1,6 @@
-# Supplementary Files for the Port-Mapping Method
-
-Here we list the access to the codes used for our article *Mapping of Dynamics between Mechanical and Electrical Ports in SG-IBR Composite Grids*.
-
-* The up-to-date version of the toolbox developed based on this article can be found [here](https://github.com/Future-Power-Networks/Simplus-Grid-Tool).
-
-* The scripts and data used for generating the results in this paper can be found [here](https://github.com/Future-Power-Networks/Simplus-Grid-Tool/tree/2021_PortMapping), which is based on an old version (v2020-OCT-22) of the toolbox. These codes are specially customized for the case study in the article, so do NOT create your own case upon these codes as they may generate unwanted results. If you hope to develop your own project based on our toolbox, please use the up-to-date version.
+# Supplementary Files for the Large-Signal Stability of Power Systems with Mixtures of GFL, GFM and GSP Inverters
+Please refer to the PDF file titled "Appendix B" which provides a detailed description of the EMT Simulation Parameters used in the paper currently under review.
 
 If you have any questions, please contact the authors.
-Yitong Li, yitong.li15@imperial.ac.uk; Yunjie Gu, yunjie.gu@imperial.ac.uk.
+Yifan Zhang, yifan.zhang21@imperial.ac.uk; Yunjie Gu, yunjie.gu@imperial.ac.uk.
 
